@@ -1,0 +1,29 @@
+{
+  "name": "offline-note-keeper-app", 
+  "version": "1.0.0",
+  "description": "A simple offline note-taking application built with HTML, CSS, and JavaScript, using browser local storage.",
+  "main": "public/index.html", 
+  "scripts": {
+    "start": "http-server public" 
+  },
+  "keywords": [
+    "offline",
+    "note-taking",
+    "local-storage",
+    "javascript",
+    "bootstrap"
+  ],
+  "author": "Ghazanfar Ali",
+  "license": "MIT", 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourGitHubUsername/offline-note-keeper-app.git" // Replace with your actual repo URL
+  },
+  "bugs": {
+    "url": "https://github.com/YourGitHubUsername/offline-note-keeper-app/issues" // Replace with your actual repo URL
+  },
+  "homepage": "https://github.com/YourGitHubUsername/offline-note-keeper-app#readme", // Replace with your actual repo URL
+  "devDependencies": {
+    "http-server": "^14.1.1" // Add http-server as a dev dependency for local testing
+  }
+}

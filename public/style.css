@@ -1,0 +1,17 @@
+/* Optional custom styles - you can add more if needed */
+.note-card {
+    margin-bottom: 15px;
+}
+
+.note-card-body {
+    padding: 15px;
+}
+
+.note-actions {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.note-actions button {
+    margin-left: 5px;
+}
