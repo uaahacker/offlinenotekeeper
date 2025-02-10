@@ -17,13 +17,13 @@
   "license": "MIT", 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YourGitHubUsername/offline-note-keeper-app.git" // Replace with your actual repo URL
+    "url": "git+https://github.com/YourGitHubUsername/offline-note-keeper-app.git" 
   },
   "bugs": {
-    "url": "https://github.com/YourGitHubUsername/offline-note-keeper-app/issues" // Replace with your actual repo URL
+    "url": "https://github.com/YourGitHubUsername/offline-note-keeper-app/issues" 
   },
-  "homepage": "https://github.com/YourGitHubUsername/offline-note-keeper-app#readme", // Replace with your actual repo URL
+  "homepage": "https://github.com/YourGitHubUsername/offline-note-keeper-app#readme", 
   "devDependencies": {
-    "http-server": "^14.1.1" // Add http-server as a dev dependency for local testing
+    "http-server": "^14.1.1" 
   }
 }
