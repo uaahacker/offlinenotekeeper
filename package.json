@@ -4,7 +4,7 @@
   "description": "A simple offline note-taking application built with HTML, CSS, and JavaScript, using browser local storage.",
   "main": "public/index.html", 
   "scripts": {
-    "start": "http-server public" 
+    "start": "node app.js" 
   },
   "keywords": [
     "offline",
